@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 328fe6463acd94c4b8b0325abd4d8bea, type: 3}
+  m_Name: AchievementDatabase
+  m_EditorClassIdentifier: 
+  Data:
+  - ID: TEST_ACHIEVMENT_A
+    Name: Start the game
+    Icon: {fileID: -241183095, guid: 3bf4590456fc65e408d8dfbf01347248, type: 3}
+  - ID: TEST_ACHIEVMENT_B
+    Name: Kill 5 goblins
+    Icon: {fileID: 1904600383, guid: 3bf4590456fc65e408d8dfbf01347248, type: 3}
+  - ID: TEST_ACHIEVMENT_C
+    Name: Finish the game
+    Icon: {fileID: -878771733, guid: 3bf4590456fc65e408d8dfbf01347248, type: 3}
+  - ID: TEST_ACHIEVMENT_D
+    Name: Find the secret Frog
+    Icon: {fileID: 1516816055, guid: 3bf4590456fc65e408d8dfbf01347248, type: 3}
